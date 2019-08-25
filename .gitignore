@@ -4,7 +4,6 @@
 *.class
 
 .idea
-leetCode.iml
 # Log file
 *.log
 
