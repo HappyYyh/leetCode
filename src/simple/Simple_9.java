@@ -2,14 +2,14 @@ package simple;
 
 /**
  * @ClassName: Simple_9
- * @description: »ØÎÄÊı
- * @author: ê»Ìì
+ * @description: å›æ–‡æ•°
+ * @author: æ˜Šå¤©
  * @create: 2019-08-25 10:21
  **/
 public class Simple_9 {
 
     /**
-     * my:ÀûÓÃstringBuilder.reverse·½·¨£¬ÆäÄÚ²¿ÓÃµÄÊÇ¾ÍÊÇ·½·¨¶ş
+     * my:åˆ©ç”¨stringBuilder.reverseæ–¹æ³•ï¼Œå…¶å†…éƒ¨ç”¨çš„æ˜¯å°±æ˜¯æ–¹æ³•äºŒ
      * @param x
      * @return
      */
@@ -20,7 +20,7 @@ public class Simple_9 {
     }
 
     /**
-     * my : string×ªcharÊı×é£¬Æ´½ÓÈ»ºó¶Ô±È
+     * my : stringè½¬charæ•°ç»„ï¼Œæ‹¼æ¥ç„¶åå¯¹æ¯”
      * @param x
      * @return
      */

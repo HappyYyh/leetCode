@@ -4,9 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * ÂÞÂíÊý×Ö°üº¬ÒÔÏÂÆßÖÖ×Ö·û:?I£¬?V£¬?X£¬?L£¬C£¬D?ºÍ?M¡£
+ * ç½—é©¬æ•°å­—åŒ…å«ä»¥ä¸‹ä¸ƒç§å­—ç¬¦:Iï¼ŒVï¼ŒXï¼ŒLï¼ŒCï¼ŒDå’ŒMã€‚
  *
- * ×Ö·û          ÊýÖµ
+ * å­—ç¬¦          æ•°å€¼
  * I             1
  * V             5
  * X             10
@@ -14,62 +14,62 @@ import java.util.Map;
  * C             100
  * D             500
  * M             1000
- * ÀýÈç£¬ ÂÞÂíÊý×Ö 2 Ð´×öII£¬¼´ÎªÁ½¸ö²¢ÁÐµÄ 1¡£12 Ð´×öXII£¬¼´ÎªX+II¡£ 27 Ð´×öXXVII, ¼´ÎªXX+V+II¡£
+ * ä¾‹å¦‚ï¼Œ ç½—é©¬æ•°å­— 2 å†™åšIIï¼Œå³ä¸ºä¸¤ä¸ªå¹¶åˆ—çš„ 1ã€‚12 å†™åšXIIï¼Œå³ä¸ºX+IIã€‚ 27 å†™åšXXVII, å³ä¸ºXX+V+IIã€‚
  *
- * Í¨³£Çé¿öÏÂ£¬ÂÞÂíÊý×ÖÖÐÐ¡µÄÊý×ÖÔÚ´óµÄÊý×ÖµÄÓÒ±ß¡£µ«Ò²´æÔÚÌØÀý£¬ÀýÈç 4 ²»Ð´×öIIII£¬¶øÊÇIV¡£
- * Êý×Ö 1 ÔÚÊý×Ö 5 µÄ×ó±ß£¬Ëù±íÊ¾µÄÊýµÈÓÚ´óÊý 5 ¼õÐ¡Êý 1 µÃµ½µÄÊýÖµ 4 ¡£
- * Í¬ÑùµØ£¬Êý×Ö 9 ±íÊ¾ÎªIX¡£Õâ¸öÌØÊâµÄ¹æÔòÖ»ÊÊÓÃÓÚÒÔÏÂÁùÖÖÇé¿ö£º
+ * é€šå¸¸æƒ…å†µä¸‹ï¼Œç½—é©¬æ•°å­—ä¸­å°çš„æ•°å­—åœ¨å¤§çš„æ•°å­—çš„å³è¾¹ã€‚ä½†ä¹Ÿå­˜åœ¨ç‰¹ä¾‹ï¼Œä¾‹å¦‚ 4 ä¸å†™åšIIIIï¼Œè€Œæ˜¯IVã€‚
+ * æ•°å­— 1 åœ¨æ•°å­— 5 çš„å·¦è¾¹ï¼Œæ‰€è¡¨ç¤ºçš„æ•°ç­‰äºŽå¤§æ•° 5 å‡å°æ•° 1 å¾—åˆ°çš„æ•°å€¼ 4 ã€‚
+ * åŒæ ·åœ°ï¼Œæ•°å­— 9 è¡¨ç¤ºä¸ºIXã€‚è¿™ä¸ªç‰¹æ®Šçš„è§„åˆ™åªé€‚ç”¨äºŽä»¥ä¸‹å…­ç§æƒ…å†µï¼š
  *
- * I¿ÉÒÔ·ÅÔÚV(5) ºÍX(10) µÄ×ó±ß£¬À´±íÊ¾ 4 ºÍ 9¡£
- * X¿ÉÒÔ·ÅÔÚL(50) ºÍC(100) µÄ×ó±ß£¬À´±íÊ¾ 40 ºÍ90¡£
- * C¿ÉÒÔ·ÅÔÚD(500) ºÍM(1000) µÄ×ó±ß£¬À´±íÊ¾400 ºÍ900¡£
- * ¸ø¶¨Ò»¸öÂÞÂíÊý×Ö£¬½«Æä×ª»»³ÉÕûÊý¡£ÊäÈëÈ·±£ÔÚ 1µ½ 3999 µÄ·¶Î§ÄÚ¡£
+ * Iå¯ä»¥æ”¾åœ¨V(5) å’ŒX(10) çš„å·¦è¾¹ï¼Œæ¥è¡¨ç¤º 4 å’Œ 9ã€‚
+ * Xå¯ä»¥æ”¾åœ¨L(50) å’ŒC(100) çš„å·¦è¾¹ï¼Œæ¥è¡¨ç¤º 40 å’Œ90ã€‚
+ * Cå¯ä»¥æ”¾åœ¨D(500) å’ŒM(1000) çš„å·¦è¾¹ï¼Œæ¥è¡¨ç¤º400 å’Œ900ã€‚
+ * ç»™å®šä¸€ä¸ªç½—é©¬æ•°å­—ï¼Œå°†å…¶è½¬æ¢æˆæ•´æ•°ã€‚è¾“å…¥ç¡®ä¿åœ¨ 1åˆ° 3999 çš„èŒƒå›´å†…ã€‚
  *
- * Ê¾Àý1:
- * ÊäÈë:"III"
- * Êä³ö: 3
+ * ç¤ºä¾‹1:
+ * è¾“å…¥:"III"
+ * è¾“å‡º: 3
  *
- * Ê¾Àý2:
- * ÊäÈë:"IV"
- * Êä³ö: 4
+ * ç¤ºä¾‹2:
+ * è¾“å…¥:"IV"
+ * è¾“å‡º: 4
  *
- * Ê¾Àý3:
- * ÊäÈë:"IX"
- * Êä³ö: 9
+ * ç¤ºä¾‹3:
+ * è¾“å…¥:"IX"
+ * è¾“å‡º: 9
  *
- * Ê¾Àý4:
- * ÊäÈë:"LVIII"
- * Êä³ö: 58
- * ½âÊÍ: L = 50, V= 5, III = 3.
+ * ç¤ºä¾‹4:
+ * è¾“å…¥:"LVIII"
+ * è¾“å‡º: 58
+ * è§£é‡Š: L = 50, V= 5, III = 3.
  *
- * Ê¾Àý5:
- * ÊäÈë:"MCMXCIV"
- * Êä³ö: 1994
- * ½âÊÍ: M = 1000, CM = 900, XC = 90, IV = 4.
+ * ç¤ºä¾‹5:
+ * è¾“å…¥:"MCMXCIV"
+ * è¾“å‡º: 1994
+ * è§£é‡Š: M = 1000, CM = 900, XC = 90, IV = 4.
  *
  * @ClassName: Simple_13
- * @description: ÂÞÂíÊý×Ö×ªÕûÊý
- * @author: ê»Ìì
+ * @description: ç½—é©¬æ•°å­—è½¬æ•´æ•°
+ * @author: æ˜Šå¤©
  * @create: 2019-08-25 11:15
  **/
 public class Simple_13 {
 
     /**
-     * my result : ÏÈ±éÀúÁ½¸ö×Ö·û²¿·Ö£¬ÔÚ±éÀúÒ»¸ö×Ö·û²¿·Ö
+     * my result : å…ˆéåŽ†ä¸¤ä¸ªå­—ç¬¦éƒ¨åˆ†ï¼Œåœ¨éåŽ†ä¸€ä¸ªå­—ç¬¦éƒ¨åˆ†
      * @param s
      * @return
      */
     private static int romanToInt(String s) {
         int result = 0;
-        //1¡¢±éÀúÌØÊâ
+        //1ã€éåŽ†ç‰¹æ®Š
         for (Special special : Special.values()){
             if(s.contains(special.getKey())){
                 result += special.getValue();
-                //ÒÆ³ýÕâÒ»²¿·Ö
+                //ç§»é™¤è¿™ä¸€éƒ¨åˆ†
                 s = s.replace(special.getKey(),"");
             }
         }
-        //2¡¢ÒòÎªÈ¥µôÌØÊâ·ûºÅºóÖ»Ê£ÏÂµ¥¸ö£¬ËùÒÔ×ª³ÉcharÊý×é£¬È»ºóÆ¥Åä
+        //2ã€å› ä¸ºåŽ»æŽ‰ç‰¹æ®Šç¬¦å·åŽåªå‰©ä¸‹å•ä¸ªï¼Œæ‰€ä»¥è½¬æˆcharæ•°ç»„ï¼Œç„¶åŽåŒ¹é…
         char[] chars = s.toCharArray();
         for (char c :chars){
             for (Common common :Common.values()){
@@ -82,11 +82,11 @@ public class Simple_13 {
     }
 
     /**
-     * Ê×ÏÈ½«ËùÓÐµÄ×éºÏ¿ÉÄÜÐÔÁÐ³ö²¢Ìí¼Óµ½¹þÏ£±íÖÐ
-     * È»ºó¶Ô×Ö·û´®½øÐÐ±éÀú£¬ÓÉÓÚ×éºÏÖ»ÓÐÁ½ÖÖ£¬Ò»ÖÖÊÇ 1 ¸ö×Ö·û£¬Ò»ÖÖÊÇ 2 ¸ö×Ö·û£¬ÆäÖÐ 2 ¸ö×Ö·ûÓÅÏÈÓÚ 1 ¸ö×Ö·û
-     * ÏÈÅÐ¶ÏÁ½¸ö×Ö·ûµÄ×éºÏÔÚ¹þÏ£±íÖÐÊÇ·ñ´æÔÚ£¬´æÔÚÔò½«ÖµÈ¡³ö¼Óµ½½á¹û ans ÖÐ£¬²¢ÏòºóÒÆ2¸ö×Ö·û¡£²»´æÔÚÔò½«ÅÐ¶Ïµ±Ç°
-     * 1 ¸ö×Ö·ûÊÇ·ñ´æÔÚ£¬´æÔÚÔò½«ÖµÈ¡³ö¼Óµ½½á¹û ans ÖÐ£¬²¢ÏòºóÒÆ 1 ¸ö×Ö·û
-     * ±éÀú½áÊø·µ»Ø½á¹û ans
+     * é¦–å…ˆå°†æ‰€æœ‰çš„ç»„åˆå¯èƒ½æ€§åˆ—å‡ºå¹¶æ·»åŠ åˆ°å“ˆå¸Œè¡¨ä¸­
+     * ç„¶åŽå¯¹å­—ç¬¦ä¸²è¿›è¡ŒéåŽ†ï¼Œç”±äºŽç»„åˆåªæœ‰ä¸¤ç§ï¼Œä¸€ç§æ˜¯ 1 ä¸ªå­—ç¬¦ï¼Œä¸€ç§æ˜¯ 2 ä¸ªå­—ç¬¦ï¼Œå…¶ä¸­ 2 ä¸ªå­—ç¬¦ä¼˜å…ˆäºŽ 1 ä¸ªå­—ç¬¦
+     * å…ˆåˆ¤æ–­ä¸¤ä¸ªå­—ç¬¦çš„ç»„åˆåœ¨å“ˆå¸Œè¡¨ä¸­æ˜¯å¦å­˜åœ¨ï¼Œå­˜åœ¨åˆ™å°†å€¼å–å‡ºåŠ åˆ°ç»“æžœ ans ä¸­ï¼Œå¹¶å‘åŽç§»2ä¸ªå­—ç¬¦ã€‚ä¸å­˜åœ¨åˆ™å°†åˆ¤æ–­å½“å‰
+     * 1 ä¸ªå­—ç¬¦æ˜¯å¦å­˜åœ¨ï¼Œå­˜åœ¨åˆ™å°†å€¼å–å‡ºåŠ åˆ°ç»“æžœ ans ä¸­ï¼Œå¹¶å‘åŽç§» 1 ä¸ªå­—ç¬¦
+     * éåŽ†ç»“æŸè¿”å›žç»“æžœ ans
      *
      * @param s
      * @return
