@@ -32,6 +32,8 @@
 
 [Simple_66:加一](simple/Simple_66.java)
 
+[Simple_67:二进制求和](simple/Simple_67.java)
+
 ### Medium
 
 ### Hard
