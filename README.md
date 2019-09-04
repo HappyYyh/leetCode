@@ -34,6 +34,8 @@
 
 [Simple_67:二进制求和](simple/Simple_67.java)
 
+[Simple_69:x的平方根](simple/Simple_69.java)
+
 ### Medium
 
 ### Hard
