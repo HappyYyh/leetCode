@@ -36,6 +36,8 @@
 
 [Simple_69:x的平方根](simple/Simple_69.java)
 
+[Simple_70:爬楼梯](simple/Simple_70.java)
+
 ### Medium
 
 ### Hard
