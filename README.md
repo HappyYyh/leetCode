@@ -38,6 +38,8 @@
 
 [Simple_70:爬楼梯](simple/Simple_70.java)
 
+[Simple_83:删除排序链表中的重复元素](simple/Simple_83.java)
+
 ### Medium
 
 ### Hard
