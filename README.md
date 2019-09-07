@@ -40,6 +40,8 @@
 
 [Simple_83:删除排序链表中的重复元素](simple/Simple_83.java)
 
+[Simple_88:合并两个有序数组](simple/Simple_88.java)
+
 ### Medium
 
 ### Hard
