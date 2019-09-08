@@ -44,4 +44,6 @@
 
 ### Medium
 
+[Medium_2:两数相加](medium/Medium_2.java)
+
 ### Hard
