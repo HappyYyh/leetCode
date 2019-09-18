@@ -46,11 +46,13 @@
 
 [Simple_101:对称二叉树](simple/Simple_101.java)
 
-[Simple_104:二叉树的最大深度](simple/Simple_104.java)
+[Simple_104:二叉树的最大深度（不会）](simple/Simple_104.java)
 
-[Simple_107:二叉树的层次遍历二](simple/Simple_107.java)
+[Simple_107:二叉树的层次遍历二（不会）](simple/Simple_107.java)
 
-[Simple_108:将有序数组转换为二叉搜索树](simple/Simple_108.java)
+[Simple_108:将有序数组转换为二叉搜索树（不会）](simple/Simple_108.java)
+
+[Simple_110:平衡二叉树（不会）](simple/Simple_110.java)
 
 ### Medium
 
