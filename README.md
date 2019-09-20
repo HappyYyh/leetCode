@@ -56,6 +56,8 @@
 
 [Simple_111:二叉树最小深度（不会）](simple/Simple_111.java)
 
+[Simple_112:路径总和（不会）](simple/Simple_112.java)
+
 ### Medium
 
 [Medium_2:两数相加](medium/Medium_2.java)
