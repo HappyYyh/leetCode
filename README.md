@@ -64,4 +64,6 @@
 
 [Medium_3:无重复字符的最长子串](medium/Medium_3.java)
 
+[Medium_5:最长回文子串](medium/Medium_5.java)
+
 ### Hard
