@@ -60,6 +60,8 @@
 
 [Simple_118:杨辉三角](simple/Simple_118.java)
 
+[Simple_119:杨辉三角Ⅱ](simple/Simple_119.java)
+
 ### Medium
 
 [Medium_2:两数相加](medium/Medium_2.java)
