@@ -62,6 +62,8 @@
 
 [Simple_119:杨辉三角Ⅱ](simple/Simple_119.java)
 
+[Simple_121:买股票的最佳时机](simple/Simple_121.java)
+
 ### Medium
 
 [Medium_2:两数相加](medium/Medium_2.java)
