@@ -64,6 +64,8 @@
 
 [Simple_121:买股票的最佳时机](simple/Simple_121.java)
 
+[Simple_122:买股票的最佳时机Ⅱ](simple/Simple_122.java)
+
 ### Medium
 
 [Medium_2:两数相加](medium/Medium_2.java)
