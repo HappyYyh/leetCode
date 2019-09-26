@@ -74,4 +74,6 @@
 
 [Medium_5:最长回文子串](medium/Medium_5.java)
 
+[Medium_6:Z 字形变换](medium/Medium_6.java)
+
 ### Hard
