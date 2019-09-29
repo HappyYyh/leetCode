@@ -37,7 +37,7 @@
 |  31   |    [Simple_121:买股票的最佳时机](simple/Simple_121.java)     |                                                       |      |
 |  32   |    [Simple_122:买股票的最佳时机Ⅱ](simple/Simple_122.java)    |                                                       |      |
 |  33   |       [Simple_125:验证回文串](simple/Simple_125.java)        |                                                       |      |
-|       |                                                              |                                                       |      |
+|  34   |    [Simple_136:只出现一次的数字](simple/Simple_136.java)     |                                                       |      |
 
 
 
