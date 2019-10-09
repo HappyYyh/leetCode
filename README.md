@@ -9,7 +9,7 @@
 |   3   |           [Simple_9:回文数](simple/Simple_9.java)            |     [Medium_5:最长回文子串](medium/Medium_5.java)      |      |
 |   4   |      [Simple_13:罗马数字转整数](simple/Simple_13.java)       |      [Medium_6:Z 字形变换](medium/Medium_6.java)       |      |
 |   5   |       [Simple_14:最长公共前缀](simple/Simple_14.java)        | [Medium_8:字符串转换整数 (atoi)](medium/Medium_8.java) |      |
-|   6   |        [Simple_20:有效的括号](simple/Simple_20.java)         |                                                        |      |
+|   6   |        [Simple_20:有效的括号](simple/Simple_20.java)         |   [Medium_11:盛最多水的容器](medium/Medium_11.java)    |      |
 |   7   |     [Simple_21:合并两个有序链表](simple/Simple_21.java)      |                                                        |      |
 |   8   |  [Simple_26:删除排序数组中的重复项](simple/Simple_26.java)   |                                                        |      |
 |   9   |         [Simple_27:移除元素](simple/Simple_27.java)          |                                                        |      |
