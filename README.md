@@ -48,4 +48,6 @@
 |  10   | [Simple_141:环形链表（题目没看懂）](simple/Simple_141.java)  |                                                        |      |
 |  11   |         [Simple_155:最小栈](simple/Simple_155.java)          |                                                        |      |
 |  12   |  [Simple_160:相交链表（没懂题目）](simple/Simple_160.java)   |                                                        |      |
-|       | [Simple_167:两数之和 II - 输入有序数组）](simple/Simple_167.java) |                                                        |      |
+|  13   | [Simple_167:两数之和 II - 输入有序数组）](simple/Simple_167.java) |                                                        |      |
+|  14   |     [Simple_168:Excel表列名称）](simple/Simple_168.java)     |                                                        |      |
+|       |                                                              |                                                        |      |

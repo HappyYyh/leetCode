@@ -47,6 +47,27 @@ public class Simple_167 {
         }
         throw new RuntimeException("No two sum solution");
     }
+	
+	/**
+     * 双指针 for循环写法
+     * @param numbers
+     * @param target
+     * @return
+     */
+    private static int[] twoSum3(int[] numbers, int target) {
+        int right = numbers.length - 1;
+        for (int i = 0; i < numbers.length;) {
+            int sum = numbers[i] + numbers[right];
+            if(sum == target){
+                return new int[]{i+1,right+1};
+            }else if(sum > target){
+                right --;
+            }else {
+                i++;
+            }
+        }
+        throw new RuntimeException("No two sum solution");
+    }
 
     /**
      * 这题和Simple1一模一样，除了返回的下标＋1
