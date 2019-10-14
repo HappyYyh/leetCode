@@ -45,5 +45,6 @@
 |   7   |   [Simple_122:买股票的最佳时机Ⅱ](simple/Simple_122.java)    |                                                        |      |
 |   8   |       [Simple_125:验证回文串](simple/Simple_125.java)       |                                                        |      |
 |   9   |    [Simple_136:只出现一次的数字](simple/Simple_136.java)    |                                                        |      |
-|  10   |  [Simple_141:环形链表:题目没看懂](simple/Simple_141.java)   |                                                        |      |
+|  10   | [Simple_141:环形链表（题目没看懂）](simple/Simple_141.java) |                                                        |      |
 |  11   |         [Simple_155:最小栈](simple/Simple_155.java)         |                                                        |      |
+|       |  [Simple_155:相交链表（没懂题目）](simple/Simple_160.java)  |                                                        |      |
