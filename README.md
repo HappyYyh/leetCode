@@ -34,17 +34,18 @@
 
 ## 10.1-10.31
 
-| index |                           Simple                            |                         Medium                         | Hard |
-| :---: | :---------------------------------------------------------: | :----------------------------------------------------: | :--: |
-|   1   |   [Simple_110:平衡二叉树（不会）](simple/Simple_110.java)   | [Medium_8:字符串转换整数 (atoi)](medium/Medium_8.java) |      |
-|   2   | [Simple_111:二叉树最小深度（不会）](simple/Simple_111.java) |   [Medium_11:盛最多水的容器](medium/Medium_11.java)    |      |
-|   3   |    [Simple_112:路径总和（不会）](simple/Simple_112.java)    |                                                        |      |
-|   4   |        [Simple_118:杨辉三角](simple/Simple_118.java)        |                                                        |      |
-|   5   |       [Simple_119:杨辉三角Ⅱ](simple/Simple_119.java)        |                                                        |      |
-|   6   |    [Simple_121:买股票的最佳时机](simple/Simple_121.java)    |                                                        |      |
-|   7   |   [Simple_122:买股票的最佳时机Ⅱ](simple/Simple_122.java)    |                                                        |      |
-|   8   |       [Simple_125:验证回文串](simple/Simple_125.java)       |                                                        |      |
-|   9   |    [Simple_136:只出现一次的数字](simple/Simple_136.java)    |                                                        |      |
-|  10   | [Simple_141:环形链表（题目没看懂）](simple/Simple_141.java) |                                                        |      |
-|  11   |         [Simple_155:最小栈](simple/Simple_155.java)         |                                                        |      |
-|       |  [Simple_155:相交链表（没懂题目）](simple/Simple_160.java)  |                                                        |      |
+| index |                            Simple                            |                         Medium                         | Hard |
+| :---: | :----------------------------------------------------------: | :----------------------------------------------------: | :--: |
+|   1   |   [Simple_110:平衡二叉树（不会）](simple/Simple_110.java)    | [Medium_8:字符串转换整数 (atoi)](medium/Medium_8.java) |      |
+|   2   | [Simple_111:二叉树最小深度（不会）](simple/Simple_111.java)  |   [Medium_11:盛最多水的容器](medium/Medium_11.java)    |      |
+|   3   |    [Simple_112:路径总和（不会）](simple/Simple_112.java)     |                                                        |      |
+|   4   |        [Simple_118:杨辉三角](simple/Simple_118.java)         |                                                        |      |
+|   5   |        [Simple_119:杨辉三角Ⅱ](simple/Simple_119.java)        |                                                        |      |
+|   6   |    [Simple_121:买股票的最佳时机](simple/Simple_121.java)     |                                                        |      |
+|   7   |    [Simple_122:买股票的最佳时机Ⅱ](simple/Simple_122.java)    |                                                        |      |
+|   8   |       [Simple_125:验证回文串](simple/Simple_125.java)        |                                                        |      |
+|   9   |    [Simple_136:只出现一次的数字](simple/Simple_136.java)     |                                                        |      |
+|  10   | [Simple_141:环形链表（题目没看懂）](simple/Simple_141.java)  |                                                        |      |
+|  11   |         [Simple_155:最小栈](simple/Simple_155.java)          |                                                        |      |
+|  12   |  [Simple_160:相交链表（没懂题目）](simple/Simple_160.java)   |                                                        |      |
+|       | [Simple_167:两数之和 II - 输入有序数组）](simple/Simple_167.java) |                                                        |      |
