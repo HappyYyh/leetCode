@@ -52,5 +52,5 @@
 |  14   |     [Simple_168:Excel表列名称）](simple/Simple_168.java)     |                                                        |      |
 |  15   |         [Simple_169:求众数](simple/Simple_169.java)          |                                                        |      |
 |  16   |      [Simple_171:Excel表列序号](simple/Simple_171.java)      |                                                        |      |
-|       |                                                              |                                                        |      |
+|  17   |       [Simple_172:阶乘后的零](simple/Simple_172.java)        |                                                        |      |
 |       |                                                              |                                                        |      |
