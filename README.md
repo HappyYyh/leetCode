@@ -53,4 +53,12 @@
 |  15   |         [Simple_169:求众数](simple/Simple_169.java)          |                                                        |      |
 |  16   |      [Simple_171:Excel表列序号](simple/Simple_171.java)      |                                                        |      |
 |  17   |       [Simple_172:阶乘后的零](simple/Simple_172.java)        |                                                        |      |
+|  18   |        [Simple_189:旋转数组](simple/Simple_189.java)         |                                                        |      |
+|  19   |                                                              |                                                        |      |
+|  20   |                                                              |                                                        |      |
+|  21   |                                                              |                                                        |      |
+|  22   |                                                              |                                                        |      |
+|  23   |                                                              |                                                        |      |
+|       |                                                              |                                                        |      |
+|       |                                                              |                                                        |      |
 |       |                                                              |                                                        |      |
