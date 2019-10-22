@@ -54,7 +54,7 @@
 |  16   |      [Simple_171:Excel表列序号](simple/Simple_171.java)      |                                                        |      |
 |  17   |       [Simple_172:阶乘后的零](simple/Simple_172.java)        |                                                        |      |
 |  18   |        [Simple_189:旋转数组](simple/Simple_189.java)         |                                                        |      |
-|  19   |                                                              |                                                        |      |
+|  19   |      [Simple_190:颠倒二进制位](simple/Simple_190.java)       |                                                        |      |
 |  20   |                                                              |                                                        |      |
 |  21   |                                                              |                                                        |      |
 |  22   |                                                              |                                                        |      |
