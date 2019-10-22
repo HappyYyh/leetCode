@@ -39,7 +39,7 @@
 |   1   |   [Simple_110:平衡二叉树（不会）](simple/Simple_110.java)    | [Medium_8:字符串转换整数 (atoi)](medium/Medium_8.java) |      |
 |   2   | [Simple_111:二叉树最小深度（不会）](simple/Simple_111.java)  |   [Medium_11:盛最多水的容器](medium/Medium_11.java)    |      |
 |   3   |    [Simple_112:路径总和（不会）](simple/Simple_112.java)     |   [Medium_12:整数转罗马数字](medium/Medium_12.java)    |      |
-|   4   |        [Simple_118:杨辉三角](simple/Simple_118.java)         |      [Medium_15:三数之和](medium/Medium_15.java)       |      |
+|   4   |        [Simple_118:杨辉三角](simple/Simple_118.java)         |  [Medium_15:三数之和（不会）](medium/Medium_15.java)   |      |
 |   5   |        [Simple_119:杨辉三角Ⅱ](simple/Simple_119.java)        |                                                        |      |
 |   6   |    [Simple_121:买股票的最佳时机](simple/Simple_121.java)     |                                                        |      |
 |   7   |    [Simple_122:买股票的最佳时机Ⅱ](simple/Simple_122.java)    |                                                        |      |
@@ -54,7 +54,7 @@
 |  16   |      [Simple_171:Excel表列序号](simple/Simple_171.java)      |                                                        |      |
 |  17   |       [Simple_172:阶乘后的零](simple/Simple_172.java)        |                                                        |      |
 |  18   |        [Simple_189:旋转数组](simple/Simple_189.java)         |                                                        |      |
-|  19   |      [Simple_190:颠倒二进制位](simple/Simple_190.java)       |                                                        |      |
+|  19   | [Simple_190:颠倒二进制位(完全不会)](simple/Simple_190.java)  |                                                        |      |
 |  20   |                                                              |                                                        |      |
 |  21   |                                                              |                                                        |      |
 |  22   |                                                              |                                                        |      |
