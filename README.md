@@ -59,6 +59,6 @@
 |  21   |        [Simple_198:打家劫舍](simple/Simple_198.java)         |                                                        |      |
 |  22   |         [Simple_202:快乐数](simple/Simple_202.java)          |                                                        |      |
 |  23   |      [Simple_203:移除链表元素](simple/Simple_203.java)       |                                                        |      |
-|       |                                                              |                                                        |      |
-|       |                                                              |                                                        |      |
+|  24   |        [Simple_204:计数质数](simple/Simple_204.java)         |                                                        |      |
+|  25   |                                                              |                                                        |      |
 |       |                                                              |                                                        |      |
