@@ -61,3 +61,14 @@
 |  23   |      [Simple_203:移除链表元素](simple/Simple_203.java)       |                                                        |                                                   |
 |  24   |        [Simple_204:计数质数](simple/Simple_204.java)         |                                                        |                                                   |
 |  25   |       [Simple_205:同构字符串](simple/Simple_205.java)        |                                                        |                                                   |
+
+## 11.1-11.30
+
+### 字符串专项练习
+
+| index | date |                           exercise                           |
+| :---: | :--: | :----------------------------------------------------------: |
+|   1   | 11.1 |    [Simple_344:反转字符串](exercise/str/Simple_344.java)     |
+|   2   | 11.2 | [Simple_345:反转字符串中的元音字母](exercise/str/Simple_345.java) |
+|   3   | 11.3 |      [Simple_383:赎金信](exercise/str/Simple_383.java)       |
+
