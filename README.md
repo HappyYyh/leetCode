@@ -73,4 +73,5 @@
 |   3   | 11.3 |      [Simple_383:赎金信](exercise/str/Simple_383.java)       |
 |   4   | 11.4 | [Simple_387:字符串中的第一个唯一字符](exercise/str/Simple_387.java) |
 |   5   | 11.5 |    [Simple_415:字符串相加](exercise/str/Simple_415.java)     |
+|   6   | 11.6 | [Medium_17:电话号码的字母组合](exercise/str//Medium_17.java) |
 
