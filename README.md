@@ -74,4 +74,5 @@
 |   4   | 11.4 | [Simple_387:字符串中的第一个唯一字符](exercise/str/Simple_387.java) |
 |   5   | 11.5 |    [Simple_415:字符串相加](exercise/str/Simple_415.java)     |
 |   6   | 11.6 | [Medium_17:电话号码的字母组合](exercise/str//Medium_17.java) |
+|   7   | 11.7 | [Simple_434:字符串中的单词数](exercise/str/Simple_434.java)  |
 
