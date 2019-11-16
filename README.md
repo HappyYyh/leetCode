@@ -79,7 +79,7 @@
 
 ### 双指针专项练习
 
-| index | data  |                           exercise                           |
+| index | date  |                           exercise                           |
 | :---: | :---: | :----------------------------------------------------------: |
 |   1   | 11.9  | [Simple_234:回文链表](exercise/doublepoint/Simple_234.java)  |
 |   2   | 11.10 | [Simple_349:两个数组的交集](exercise/doublepoint/Simple_349.java) |
@@ -88,5 +88,16 @@
 |   5   | 11.13 | [Simple_350:两个数组的交集Ⅱ](exercise/doublepoint/Simple_350.java) |
 |   6   | 11.14 | [Simple_532:数组中的K-diff数对](exercise/doublepoint/Simple_532.java) |
 |   7   | 11.15 | [Simple_844:比较含退格的字符串](exercise/doublepoint/Simple_844.java) |
-|       |       |                                                              |
+
+### 栈、堆专项练习
+
+| index | date  |                         exercise                          |
+| :---: | :---: | :-------------------------------------------------------: |
+|   1   | 11.16 | [Simple_225:用队列实现栈](exercise/stack/Simple_225.java) |
+|   2   | 11.17 | [Simple_232:用栈实现队列](exercise/stack/Simple_232.java) |
+|       |       |                                                           |
+|       |       |                                                           |
+|       |       |                                                           |
+|       |       |                                                           |
+|       |       |                                                           |
 
