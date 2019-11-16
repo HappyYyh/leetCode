@@ -86,7 +86,7 @@
 |   3   | 11.11 |  [Simple_283:移动零](exercise/doublepoint/Simple_283.java)   |
 |   4   | 11.12 |  [Medium_18:四数之和](exercise/doublepoint/Medium_18.java)   |
 |   5   | 11.13 | [Simple_350:两个数组的交集Ⅱ](exercise/doublepoint/Simple_350.java) |
-|       |       |                                                              |
-|       |       |                                                              |
+|   6   | 11.14 | [Simple_532:数组中的K-diff数对](exercise/doublepoint/Simple_532.java) |
+|   7   | 11.15 | [Simple_844:比较含退格的字符串](exercise/doublepoint/Simple_844.java) |
 |       |       |                                                              |
 
