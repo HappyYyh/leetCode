@@ -96,7 +96,7 @@
 |   1   | 11.16 |  [Simple_225:用队列实现栈](exercise/stack/Simple_225.java)   |
 |   2   | 11.17 |  [Simple_232:用栈实现队列](exercise/stack/Simple_232.java)   |
 |   3   | 11.18 | [Simple_496:下一个更大元素 I](exercise/stack/Simple_496.java) |
-|       |       |                                                              |
+|   4   | 11.19 | [Simple_1021:删除最外层的括号](exercise/stack/Simple_1021.java) |
 |       |       |                                                              |
 |       |       |                                                              |
 |       |       |                                                              |
