@@ -89,7 +89,7 @@
 |   6   | 11.14 | [Simple_532:数组中的K-diff数对](exercise/doublepoint/Simple_532.java) |
 |   7   | 11.15 | [Simple_844:比较含退格的字符串](exercise/doublepoint/Simple_844.java) |
 
-### 栈、堆专项练习
+### 栈专项练习
 
 | index | date  |                           exercise                           |
 | :---: | :---: | :----------------------------------------------------------: |
@@ -100,4 +100,16 @@
 |   5   | 11.20 |    [Simple_682:棒球比赛](exercise/stack/Simple_682.java)     |
 |   6   | 11.21 | [Simple_1047:删除字符串中的所有相邻重复项](exercise/stack/Simple_1047.java) |
 |   7   | 11.22 |     [Medium_71:简化路径](exercise/stack/Medium_71.java)      |
+
+### 哈希表专项练习
+
+| index | date  |                          exercise                           |
+| :---: | :---: | :---------------------------------------------------------: |
+|   1   | 11.23 |  [Simple_217:存在重复元素](exercise/hash/Simple_217.java)   |
+|   2   | 11.24 | [Simple_219:存在重复元素 II](exercise/hash/Simple_219.java) |
+|       |       |                                                             |
+|       |       |                                                             |
+|       |       |                                                             |
+|       |       |                                                             |
+|       |       |                                                             |
 
