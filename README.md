@@ -103,13 +103,13 @@
 
 ### 哈希表专项练习
 
-| index | date  |                          exercise                           |
-| :---: | :---: | :---------------------------------------------------------: |
-|   1   | 11.23 |  [Simple_217:存在重复元素](exercise/hash/Simple_217.java)   |
-|   2   | 11.24 | [Simple_219:存在重复元素 II](exercise/hash/Simple_219.java) |
-|       |       |                                                             |
-|       |       |                                                             |
-|       |       |                                                             |
-|       |       |                                                             |
-|       |       |                                                             |
+| index | date  |                           exercise                           |
+| :---: | :---: | :----------------------------------------------------------: |
+|   1   | 11.23 |   [Simple_217:存在重复元素](exercise/hash/Simple_217.java)   |
+|   2   | 11.24 | [Simple_219:存在重复元素 II](exercise/hash/Simple_219.java)  |
+|   3   | 11.25 | [Simple_242:有效的字母异位词](exercise/hash/Simple_242.java) |
+|       |       |                                                              |
+|       |       |                                                              |
+|       |       |                                                              |
+|       |       |                                                              |
 
