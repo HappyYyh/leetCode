@@ -100,6 +100,7 @@
 |   5   | 11.20 |    [Simple_682:棒球比赛](exercise/stack/Simple_682.java)     |
 |   6   | 11.21 | [Simple_1047:删除字符串中的所有相邻重复项](exercise/stack/Simple_1047.java) |
 |   7   | 11.22 |     [Medium_71:简化路径](exercise/stack/Medium_71.java)      |
+|   8   | 11.26 |        [Hard_42:接雨水](exercise/stack/Hard_42.java)         |
 
 ### 哈希表专项练习
 
