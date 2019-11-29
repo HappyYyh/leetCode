@@ -111,6 +111,6 @@
 |   3   | 11.25 | [Simple_242:有效的字母异位词](exercise/hash/Simple_242.java) |
 |   4   | 11.27 |     [Simple_290:单词规律](exercise/hash/Simple_290.java)     |
 |   5   | 11.28 |      [Simple_389:找不同](exercise/hash/Simple_389.java)      |
-|       |       |                                                              |
+|   6   | 11.29 |     [Medium_36:有效的数独](exercise/hash/Medium_36.java)     |
 |       |       |                                                              |
 
