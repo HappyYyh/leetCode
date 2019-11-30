@@ -112,5 +112,13 @@
 |   4   | 11.27 |     [Simple_290:单词规律](exercise/hash/Simple_290.java)     |
 |   5   | 11.28 |      [Simple_389:找不同](exercise/hash/Simple_389.java)      |
 |   6   | 11.29 |     [Medium_36:有效的数独](exercise/hash/Medium_36.java)     |
-|       |       |                                                              |
+|   7   | 11.30 |    [Simple_299:猜数字游戏](exercise/hash/Simple_299.java)    |
+
+### 递归专项练习
+
+| index | date |                           exercise                           |
+| :---: | :--: | :----------------------------------------------------------: |
+|   1   | 12.1 | [Simple_687:最长同值路径](exercise/recursion/Simple_687.java) |
+|       |      |                                                              |
+|       |      |                                                              |
 
