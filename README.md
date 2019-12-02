@@ -114,11 +114,21 @@
 |   6   | 11.29 |     [Medium_36:有效的数独](exercise/hash/Medium_36.java)     |
 |   7   | 11.30 |    [Simple_299:猜数字游戏](exercise/hash/Simple_299.java)    |
 
+## 12.01-12.31
+
 ### 递归专项练习
 
 | index | date |                           exercise                           |
 | :---: | :--: | :----------------------------------------------------------: |
 |   1   | 12.1 | [Simple_687:最长同值路径](exercise/recursion/Simple_687.java) |
+|       |      |                                                              |
+|       |      |                                                              |
+
+### 二分查找专项练习
+
+| index | date |                           exercise                           |
+| :---: | :--: | :----------------------------------------------------------: |
+|   1   | 12.2 | [Simple_278:第一个错误的版本](exercise/binarysearch/Simple_278.java) |
 |       |      |                                                              |
 |       |      |                                                              |
 
