@@ -129,6 +129,6 @@
 | index | date |                           exercise                           |
 | :---: | :--: | :----------------------------------------------------------: |
 |   1   | 12.2 | [Simple_278:第一个错误的版本](exercise/binarysearch/Simple_278.java) |
-|       |      |                                                              |
+|   2   | 12.3 | [Simple_367:有效的完全平方数](exercise/binarysearch/Simple_367.java) |
 |       |      |                                                              |
 
