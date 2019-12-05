@@ -131,4 +131,6 @@
 |   1   | 12.2 | [Simple_278:第一个错误的版本](exercise/binarysearch/Simple_278.java) |
 |   2   | 12.3 | [Simple_367:有效的完全平方数](exercise/binarysearch/Simple_367.java) |
 |   3   | 12.4 | [Simple_374:猜数字大小](exercise/binarysearch/Simple_374.java) |
+|   4   | 12.5 | [Simple_392:判断子序列](exercise/binarysearch/Simple_392.java) |
+|       |      |                                                              |
 
