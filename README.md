@@ -132,5 +132,6 @@
 |   2   | 12.3 | [Simple_367:有效的完全平方数](exercise/binarysearch/Simple_367.java) |
 |   3   | 12.4 | [Simple_374:猜数字大小](exercise/binarysearch/Simple_374.java) |
 |   4   | 12.5 | [Simple_392:判断子序列](exercise/binarysearch/Simple_392.java) |
-|       |      |                                                              |
+|   5   | 12.6 |  [Medium_29:两数相除](exercise/binarysearch/Medium_29.java)  |
+|   6   | 12.6 | [Simple_441:排列硬币](exercise/binarysearch/Simple_441.java) |
 
