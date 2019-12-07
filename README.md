@@ -135,3 +135,14 @@
 |   5   | 12.6 |  [Medium_29:两数相除](exercise/binarysearch/Medium_29.java)  |
 |   6   | 12.6 | [Simple_441:排列硬币](exercise/binarysearch/Simple_441.java) |
 
+### 数组专项练习
+
+| index | date |                      exercise                       |
+| :---: | :--: | :-------------------------------------------------: |
+|   1   | 12.7 | [Simple_268:缺失数字](exercise/arr/Simple_268.java) |
+|   2   | 12.8 | [Medium_31:下一个排列](exercise/arr/Medium_31.java) |
+|       |      |                                                     |
+|       |      |                                                     |
+|       |      |                                                     |
+|       |      |                                                     |
+
