@@ -137,12 +137,12 @@
 
 ### 数组专项练习
 
-| index | date |                      exercise                       |
-| :---: | :--: | :-------------------------------------------------: |
-|   1   | 12.7 | [Simple_268:缺失数字](exercise/arr/Simple_268.java) |
-|   2   | 12.8 | [Medium_31:下一个排列](exercise/arr/Medium_31.java) |
-|       |      |                                                     |
-|       |      |                                                     |
-|       |      |                                                     |
-|       |      |                                                     |
+| index | date |                       exercise                        |
+| :---: | :--: | :---------------------------------------------------: |
+|   1   | 12.7 |  [Simple_268:缺失数字](exercise/arr/Simple_268.java)  |
+|   2   | 12.8 |  [Medium_31:下一个排列](exercise/arr/Medium_31.java)  |
+|   3   | 12.9 | [Simple_414:第三大的数](exercise/arr/Simple_414.java) |
+|       |      |                                                       |
+|       |      |                                                       |
+|       |      |                                                       |
 
