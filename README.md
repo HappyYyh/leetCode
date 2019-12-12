@@ -144,5 +144,6 @@
 |   3   | 12.9  |    [Simple_414:第三大的数](exercise/arr/Simple_414.java)     |
 |   4   | 12.10 | [Simple_448:找到所有数组中消失的数字](exercise/arr/Simple_448.java) |
 |   5   | 12.11 |  [Simple_485:最大连续1的个数](exercise/arr/Simple_485.java)  |
+|   6   | 12.12 |    [Simple_509:斐波那契数](exercise/arr/Simple_509.java)     |
 |       |       |                                                              |
 
