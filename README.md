@@ -147,3 +147,15 @@
 |   6   | 12.12 |    [Simple_509:斐波那契数](exercise/arr/Simple_509.java)     |
 |   7   | 12.13 |    [Simple_561:数组拆分 I](exercise/arr/Simple_561.java)     |
 
+### 树专项练习
+
+| index | date  |                           exercise                           |
+| :---: | :---: | :----------------------------------------------------------: |
+|   1   | 12.14 |    [Simple_226:翻转二叉树](exercise/tree/Simple_226.java)    |
+|   2   | 12.15 | [Simple_235:二叉搜索树的最近公共祖先](exercise/tree/Simple_235.java) |
+|   3   |       |                                                              |
+|   4   |       |                                                              |
+|   5   |       |                                                              |
+|   6   |       |                                                              |
+|   7   |       |                                                              |
+
