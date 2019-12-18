@@ -155,7 +155,7 @@
 |   2   | 12.15 | [Simple_235:二叉搜索树的最近公共祖先](exercise/tree/Simple_235.java) |
 |   3   | 12.16 | [Simple_257:二叉树的所有路径](exercise/tree/Simple_257.java) |
 |   4   | 12.17 |    [Simple_404:左叶子之和](exercise/tree/Simple_404.java)    |
-|   5   |       |                                                              |
+|   5   | 12.18 |  [Medium_94:二叉树的中序遍历](exercise/tree/Medium_94.java)  |
 |   6   |       |                                                              |
 |   7   |       |                                                              |
 
