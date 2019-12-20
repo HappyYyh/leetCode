@@ -157,5 +157,5 @@
 |   4   | 12.17 |    [Simple_404:左叶子之和](exercise/tree/Simple_404.java)    |
 |   5   | 12.18 |  [Medium_94:二叉树的中序遍历](exercise/tree/Medium_94.java)  |
 |   6   | 12.19 | [Simple_437:路径总和 III（不会）](exercise/tree/Simple_437.java) |
-|   7   |       |                                                              |
+|   7   | 12.20 | [Simple_501:二叉搜索树中的众数](exercise/tree/Simple_501.java) |
 
