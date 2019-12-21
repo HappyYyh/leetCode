@@ -75,7 +75,7 @@
 |   5   | 11.5 |    [Simple_415:字符串相加](exercise/str/Simple_415.java)     |
 |   6   | 11.6 | [Medium_17:电话号码的字母组合](exercise/str//Medium_17.java) |
 |   7   | 11.7 | [Simple_434:字符串中的单词数](exercise/str/Simple_434.java)  |
-|   6   | 11.8 |    [Simple_443:压缩字符串](exercise/str/Simple_443.java)     |
+|   8   | 11.8 |    [Simple_443:压缩字符串](exercise/str/Simple_443.java)     |
 
 ### 双指针专项练习
 
@@ -126,14 +126,15 @@
 
 ### 二分查找专项练习
 
-| index | date |                           exercise                           |
-| :---: | :--: | :----------------------------------------------------------: |
-|   1   | 12.2 | [Simple_278:第一个错误的版本](exercise/binarysearch/Simple_278.java) |
-|   2   | 12.3 | [Simple_367:有效的完全平方数](exercise/binarysearch/Simple_367.java) |
-|   3   | 12.4 | [Simple_374:猜数字大小](exercise/binarysearch/Simple_374.java) |
-|   4   | 12.5 | [Simple_392:判断子序列](exercise/binarysearch/Simple_392.java) |
-|   5   | 12.6 |  [Medium_29:两数相除](exercise/binarysearch/Medium_29.java)  |
-|   6   | 12.6 | [Simple_441:排列硬币](exercise/binarysearch/Simple_441.java) |
+| index | date  |                           exercise                           |
+| :---: | :---: | :----------------------------------------------------------: |
+|   1   | 12.2  | [Simple_278:第一个错误的版本](exercise/binarysearch/Simple_278.java) |
+|   2   | 12.3  | [Simple_367:有效的完全平方数](exercise/binarysearch/Simple_367.java) |
+|   3   | 12.4  | [Simple_374:猜数字大小](exercise/binarysearch/Simple_374.java) |
+|   4   | 12.5  | [Simple_392:判断子序列](exercise/binarysearch/Simple_392.java) |
+|   5   | 12.6  |  [Medium_29:两数相除](exercise/binarysearch/Medium_29.java)  |
+|   6   | 12.6  | [Simple_441:排列硬币](exercise/binarysearch/Simple_441.java) |
+|   7   | 12.21 |  [Simple_475:供暖器](exercise/binarysearch/Simple_475.java)  |
 
 ### 数组专项练习
 
@@ -158,4 +159,15 @@
 |   5   | 12.18 |  [Medium_94:二叉树的中序遍历](exercise/tree/Medium_94.java)  |
 |   6   | 12.19 | [Simple_437:路径总和 III（不会）](exercise/tree/Simple_437.java) |
 |   7   | 12.20 | [Simple_501:二叉搜索树中的众数](exercise/tree/Simple_501.java) |
+
+### 排序专项练习
+
+| index | date  |                           exercise                           |
+| :---: | :---: | :----------------------------------------------------------: |
+|   1   | 12.22 | [Simple_922:按奇偶排序数组 II](exercise/sort/Simple_922.java) |
+|   2   | 12.23 |                                                              |
+|   3   | 12.24 |                                                              |
+|   4   | 12.25 |                                                              |
+|   5   | 12.26 |                                                              |
+|   6   | 12.27 |                                                              |
 
