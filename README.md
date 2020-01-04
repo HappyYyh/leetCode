@@ -180,7 +180,7 @@
 | 12.30 | 链表、递归 |       [Simple_206:反转链表](simple/Simple_206.java)        |
 | 12.31 |   位运算   |         [Simple_231:2的幂](simple/Simple_231.java)         |
 |  1.2  | 链表、递归 |  [Medium_24:两两交换链表中的节点](medium/Medium_24.java)   |
-|       |            |                                                            |
+|  1.4  |  二分查找  |    [Medium_33:搜索旋转排序数组](medium/Medium_33.java)     |
 |       |            |                                                            |
 |       |            |                                                            |
 |       |            |                                                            |
