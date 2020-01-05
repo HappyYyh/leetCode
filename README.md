@@ -173,15 +173,15 @@
 
 ## 随机练习
 
-| date  |    type    |                          exercise                          |
-| :---: | :--------: | :--------------------------------------------------------: |
-| 12.28 |  链表遍历  | [Medium_19:删除链表的倒数第N个节点](medium/Medium_19.java) |
-| 12.29 |  回溯算法  |        [Medium_22:括号生成](medium/Medium_22.java)         |
-| 12.30 | 链表、递归 |       [Simple_206:反转链表](simple/Simple_206.java)        |
-| 12.31 |   位运算   |         [Simple_231:2的幂](simple/Simple_231.java)         |
-|  1.2  | 链表、递归 |  [Medium_24:两两交换链表中的节点](medium/Medium_24.java)   |
-|  1.4  |  二分查找  |    [Medium_33:搜索旋转排序数组](medium/Medium_33.java)     |
-|       |            |                                                            |
-|       |            |                                                            |
-|       |            |                                                            |
+| date  |     type     |                          exercise                          |
+| :---: | :----------: | :--------------------------------------------------------: |
+| 12.28 |   链表遍历   | [Medium_19:删除链表的倒数第N个节点](medium/Medium_19.java) |
+| 12.29 |   回溯算法   |        [Medium_22:括号生成](medium/Medium_22.java)         |
+| 12.30 |  链表、递归  |       [Simple_206:反转链表](simple/Simple_206.java)        |
+| 12.31 |    位运算    |         [Simple_231:2的幂](simple/Simple_231.java)         |
+|  1.2  |  链表、递归  |  [Medium_24:两两交换链表中的节点](medium/Medium_24.java)   |
+|  1.4  |   二分查找   |    [Medium_33:搜索旋转排序数组](medium/Medium_33.java)     |
+|  1.5  | 深度优先遍历 |     [Medium_98:验证二叉搜索树](medium/Medium_98.java)      |
+|       |              |                                                            |
+|       |              |                                                            |
 
