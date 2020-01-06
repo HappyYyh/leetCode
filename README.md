@@ -182,6 +182,6 @@
 |  1.2  |  链表、递归  |  [Medium_24:两两交换链表中的节点](medium/Medium_24.java)   |
 |  1.4  |   二分查找   |    [Medium_33:搜索旋转排序数组](medium/Medium_33.java)     |
 |  1.5  | 深度优先遍历 |     [Medium_98:验证二叉搜索树](medium/Medium_98.java)      |
-|       |              |                                                            |
+|  1.6  | 动态规划、栈 |         [Hard_32:最长有效括号](hard/Hard_32.java)          |
 |       |              |                                                            |
 
