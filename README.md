@@ -185,7 +185,7 @@
 |  1.6  | 动态规划、栈 |         [最长有效括号](random/Hard_32.java)          |   32   |  Hard  |
 |  1.7  |     链表     |      [删除链表中的节点](random/Simple_237.java)      |  237   | Simple |
 |  4.1  |   旋转数组   | [寻找旋转排序数组中的最小值](random/Medium_153.java) |  153   | Medium |
-|       |              |                                                      |        |        |
+|  4.5  |   栈、数组   |   [表现良好的最长时间段](random/Medium_1124.java)    |  1124  | Medium |
 |       |              |                                                      |        |        |
 |       |              |                                                      |        |        |
 |       |              |                                                      |        |        |
