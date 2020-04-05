@@ -1,4 +1,4 @@
-package medium;
+package random;
 
 
 import exercise.tree.Medium_94;

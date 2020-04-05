@@ -1,4 +1,4 @@
-package hard;
+package random;
 
 import java.util.Stack;
 

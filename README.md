@@ -26,9 +26,9 @@
 |  20   |     [Simple_88:合并两个有序数组](simple/Simple_88.java)      |                                                       |                                                             |
 |  21   |        [Simple_100:相同的树](simple/Simple_100.java)         |                                                       |                                                             |
 |  22   |       [Simple_101:对称二叉树](simple/Simple_101.java)        |                                                       |                                                             |
-|  23   | [Simple_104:二叉树的最大深度（不会）](simple/Simple_104.java) |                                                       |                                                             |
-|  24   | [Simple_107:二叉树的层次遍历二（不会）](simple/Simple_107.java) |                                                       |                                                             |
-|  25   | [Simple_108:将有序数组转换为二叉搜索树（不会）](simple/Simple_108.java) |                                                       |                                                             |
+|  23   |    [Simple_104:二叉树的最大深度](simple/Simple_104.java)     |                                                       |                                                             |
+|  24   |   [Simple_107:二叉树的层次遍历二](simple/Simple_107.java)    |                                                       |                                                             |
+|  25   | [Simple_108:将有序数组转换为二叉搜索树](simple/Simple_108.java) |                                                       |                                                             |
 
 
 
@@ -36,9 +36,9 @@
 
 | index |                            Simple                            |                         Medium                         |                       Hard                        |
 | :---: | :----------------------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------: |
-|   1   |   [Simple_110:平衡二叉树（不会）](simple/Simple_110.java)    | [Medium_8:字符串转换整数 (atoi)](medium/Medium_8.java) | [Hard_10:正则表达式匹配(不会)](hard/Hard_10.java) |
-|   2   | [Simple_111:二叉树最小深度（不会）](simple/Simple_111.java)  |   [Medium_11:盛最多水的容器](medium/Medium_11.java)    |                                                   |
-|   3   |    [Simple_112:路径总和（不会）](simple/Simple_112.java)     |   [Medium_12:整数转罗马数字](medium/Medium_12.java)    |                                                   |
+|   1   |       [Simple_110:平衡二叉树](simple/Simple_110.java)        | [Medium_8:字符串转换整数 (atoi)](medium/Medium_8.java) | [Hard_10:正则表达式匹配(不会)](hard/Hard_10.java) |
+|   2   |     [Simple_111:二叉树最小深度](simple/Simple_111.java)      |   [Medium_11:盛最多水的容器](medium/Medium_11.java)    |                                                   |
+|   3   |        [Simple_112:路径总和](simple/Simple_112.java)         |   [Medium_12:整数转罗马数字](medium/Medium_12.java)    |                                                   |
 |   4   |        [Simple_118:杨辉三角](simple/Simple_118.java)         |      [Medium_15:三数之和](medium/Medium_15.java)       |                                                   |
 |   5   |        [Simple_119:杨辉三角Ⅱ](simple/Simple_119.java)        |  [Medium_16:最接近的三数之和](medium/Medium_16.java)   |                                                   |
 |   6   |    [Simple_121:买股票的最佳时机](simple/Simple_121.java)     |                                                        |                                                   |
@@ -55,7 +55,7 @@
 |  17   |       [Simple_172:阶乘后的零](simple/Simple_172.java)        |                                                        |                                                   |
 |  18   |        [Simple_189:旋转数组](simple/Simple_189.java)         |                                                        |                                                   |
 |  19   | [Simple_190:颠倒二进制位(完全不会)](simple/Simple_190.java)  |                                                        |                                                   |
-|  20   |   [Simple_191:位1的个数(完全不会)](simple/Simple_191.java)   |                                                        |                                                   |
+|  20   |        [Simple_191:位1的个数](simple/Simple_191.java)        |                                                        |                                                   |
 |  21   |        [Simple_198:打家劫舍](simple/Simple_198.java)         |                                                        |                                                   |
 |  22   |         [Simple_202:快乐数](simple/Simple_202.java)          |                                                        |                                                   |
 |  23   |      [Simple_203:移除链表元素](simple/Simple_203.java)       |                                                        |                                                   |
@@ -173,20 +173,20 @@
 
 ## 随机练习
 
-| date  |     type     |                           exercise                           |
-| :---: | :----------: | :----------------------------------------------------------: |
-| 12.28 |   链表遍历   |  [Medium_19:删除链表的倒数第N个节点](medium/Medium_19.java)  |
-| 12.29 |   回溯算法   |         [Medium_22:括号生成](medium/Medium_22.java)          |
-| 12.30 |  链表、递归  |        [Simple_206:反转链表](simple/Simple_206.java)         |
-| 12.31 |    位运算    |          [Simple_231:2的幂](simple/Simple_231.java)          |
-|  1.2  |  链表、递归  |   [Medium_24:两两交换链表中的节点](medium/Medium_24.java)    |
-|  1.4  |   二分查找   |     [Medium_33:搜索旋转排序数组](medium/Medium_33.java)      |
-|  1.5  | 深度优先遍历 |      [Medium_98:验证二叉搜索树](medium/Medium_98.java)       |
-|  1.6  | 动态规划、栈 |          [Hard_32:最长有效括号](hard/Hard_32.java)           |
-|  1.7  |     链表     |    [Simple_237:删除链表中的节点](simple/Simple_237.java)     |
-|  4.1  |   旋转数组   | [Medium_153:寻找旋转排序数组中的最小值](medium/Medium_153.java) |
-|       |              |                                                              |
-|       |              |                                                              |
-|       |              |                                                              |
-|       |              |                                                              |
+| date  |  konwledge   |                       exercise                       | number |  type  |
+| :---: | :----------: | :--------------------------------------------------: | :----: | :----: |
+| 12.28 |   链表遍历   |   [删除链表的倒数第N个节点](random/Medium_19.java)   |   19   | Medium |
+| 12.29 |   回溯算法   |          [括号生成](random/Medium_22.java)           |   22   | Medium |
+| 12.30 |  链表、递归  |          [反转链表](random/Simple_206.java)          |  206   | Simple |
+| 12.31 |    位运算    |           [2的幂](random/Simple_231.java)            |  231   | Simple |
+|  1.2  |  链表、递归  |    [两两交换链表中的节点](random/Medium_24.java)     |   24   | Medium |
+|  1.4  |   二分查找   |      [搜索旋转排序数组](random/Medium_33.java)       |   33   | Medium |
+|  1.5  | 深度优先遍历 |       [验证二叉搜索树](random/Medium_98.java)        |   98   | Medium |
+|  1.6  | 动态规划、栈 |         [最长有效括号](random/Hard_32.java)          |   32   |  Hard  |
+|  1.7  |     链表     |      [删除链表中的节点](random/Simple_237.java)      |  237   | Simple |
+|  4.1  |   旋转数组   | [寻找旋转排序数组中的最小值](random/Medium_153.java) |  153   | Medium |
+|       |              |                                                      |        |        |
+|       |              |                                                      |        |        |
+|       |              |                                                      |        |        |
+|       |              |                                                      |        |        |
 

@@ -1,4 +1,4 @@
-package simple;
+package random;
 
 import java.util.LinkedList;
 

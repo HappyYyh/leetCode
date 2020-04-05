@@ -1,4 +1,4 @@
-package medium;
+package random;
 
 import java.util.ArrayList;
 import java.util.List;
