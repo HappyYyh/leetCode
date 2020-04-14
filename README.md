@@ -173,20 +173,20 @@
 
 ## 随机练习
 
-| date  |  konwledge   |                       exercise                       | number |  type  |
-| :---: | :----------: | :--------------------------------------------------: | :----: | :----: |
-| 12.28 |   链表遍历   |   [删除链表的倒数第N个节点](random/Medium_19.java)   |   19   | Medium |
-| 12.29 |   回溯算法   |          [括号生成](random/Medium_22.java)           |   22   | Medium |
-| 12.30 |  链表、递归  |          [反转链表](random/Simple_206.java)          |  206   | Simple |
-| 12.31 |    位运算    |           [2的幂](random/Simple_231.java)            |  231   | Simple |
-|  1.2  |  链表、递归  |    [两两交换链表中的节点](random/Medium_24.java)     |   24   | Medium |
-|  1.4  |   二分查找   |      [搜索旋转排序数组](random/Medium_33.java)       |   33   | Medium |
-|  1.5  | 深度优先遍历 |       [验证二叉搜索树](random/Medium_98.java)        |   98   | Medium |
-|  1.6  | 动态规划、栈 |         [最长有效括号](random/Hard_32.java)          |   32   |  Hard  |
-|  1.7  |     链表     |      [删除链表中的节点](random/Simple_237.java)      |  237   | Simple |
-|  4.1  |   旋转数组   | [寻找旋转排序数组中的最小值](random/Medium_153.java) |  153   | Medium |
-|  4.5  |   栈、数组   |   [表现良好的最长时间段](random/Medium_1124.java)    |  1124  | Medium |
-|       |              |                                                      |        |        |
-|       |              |                                                      |        |        |
-|       |              |                                                      |        |        |
+| date  |   konwledge    |                       exercise                       | number |  type  |
+| :---: | :------------: | :--------------------------------------------------: | :----: | :----: |
+| 12.28 |    链表遍历    |   [删除链表的倒数第N个节点](random/Medium_19.java)   |   19   | Medium |
+| 12.29 |    回溯算法    |          [括号生成](random/Medium_22.java)           |   22   | Medium |
+| 12.30 |   链表、递归   |          [反转链表](random/Simple_206.java)          |  206   | Simple |
+| 12.31 |     位运算     |           [2的幂](random/Simple_231.java)            |  231   | Simple |
+|  1.2  |   链表、递归   |    [两两交换链表中的节点](random/Medium_24.java)     |   24   | Medium |
+|  1.4  |    二分查找    |      [搜索旋转排序数组](random/Medium_33.java)       |   33   | Medium |
+|  1.5  |  深度优先遍历  |       [验证二叉搜索树](random/Medium_98.java)        |   98   | Medium |
+|  1.6  |  动态规划、栈  |         [最长有效括号](random/Hard_32.java)          |   32   |  Hard  |
+|  1.7  |      链表      |      [删除链表中的节点](random/Simple_237.java)      |  237   | Simple |
+|  4.1  |    旋转数组    | [寻找旋转排序数组中的最小值](random/Medium_153.java) |  153   | Medium |
+|  4.5  |    栈、数组    |   [表现良好的最长时间段](random/Medium_1124.java)    |  1124  | Medium |
+| 4.14  | 哈希表、位运算 |      [最大单词长度乘积](random/Medium_318.java)      |  318   | Medium |
+|       |                |                                                      |        |        |
+|       |                |                                                      |        |        |
 
